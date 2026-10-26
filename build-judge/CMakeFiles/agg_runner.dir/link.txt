@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -flto=auto -fno-fat-lto-objects -Wl,--dependency-file=CMakeFiles/agg_runner.dir/link.d CMakeFiles/agg_runner.dir/harness/main.cpp.o CMakeFiles/agg_runner.dir/samples/aggregator.stub.cpp.o -o agg_runner

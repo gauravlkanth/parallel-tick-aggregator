@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/glk/dev/low_latency/project/build-judge/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
